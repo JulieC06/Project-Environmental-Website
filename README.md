@@ -1,3 +1,4 @@
-# Project-Environmental-Website
+# Project Wildlife Adoption Website
 
-For this website/ project, the goal is to create a resourceful page with environemtal related news, and just general informative educational webpage. The site will allow users to create and login to their profile and maybe an option to donate if desired. 
+The website will have list of wildlife animals with indiviual informations of each animal and the option to adopt the animal. The user can sign up and log in to purchase the adoption. 
+I will be using API from the noun project and i will be using API from IUCN red list.
